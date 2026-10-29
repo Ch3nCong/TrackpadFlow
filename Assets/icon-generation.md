@@ -1,0 +1,7 @@
+# 轻划应用图标 v1
+
+2026-10-28，使用内置 `image_gen.imagegen` 生成，透明背景。原始生成文件已复制为本目录的 `AppIcon-source-v1.png`（1254 × 1254，带 alpha）。随后通过 `sips` 缩放为标准尺寸，由 `iconutil` 打包成 `AppIcon.icns`；仅作格式与尺寸转换，不改变图形内容。
+
+## 完整生成提示词
+
+Use case: logo-brand. Asset type: finished macOS desktop application icon for an existing Chinese trackpad window-management utility called Trackpad Flow (轻划). Create ONE polished, original, production-ready square app icon, 1024x1024 composition. The app's existing interface uses cobalt blue and white. On an actually transparent canvas, place a large macOS rounded-square tile centered with about 9% transparent outer inset on every side. Tile has a beautifully restrained rich cobalt-to-periwinkle blue gradient with subtle dimensional bevel, soft internal light and a very small soft shadow, premium native macOS aesthetic. Center one bold, highly legible white/silver symbol: an elegant gently tilted rounded rectangular Magic Trackpad outline, three small round fingertip contact dots in a triangular arrangement, and one minimal offset window outline behind it that communicates window management. Integrate these into one cohesive, balanced mark; uncluttered geometry, substantial stroke weights that survive 32px downscaling, crisp high quality edges, gentle glass/ceramic material depth. Avoid tiny details, avoid arrows all around, avoid literal hands, avoid Apple logos, avoid text, letters, numbers, watermarks, grids, multiple variants, previews or a desktop mockup. Output only the standalone finished app icon on transparent background.
